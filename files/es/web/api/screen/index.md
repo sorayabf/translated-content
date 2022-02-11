@@ -45,7 +45,7 @@ detectando qué pantalla tiene el navegador centrada.
 ### Detector de eventos
 
 - {{DOMxRef("Screen.onorientationchange")}} {{Deprecated_Inline}}
-  - : Un manejador para el evento {{event("orientationchange")}}.
+  - : Un detector para el evento {{event("orientationchange")}}.
 
 ## Métodos
 
