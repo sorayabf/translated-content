@@ -42,7 +42,7 @@ detectando qué pantalla tiene el navegador centrada.
 - {{DOMxRef("Screen.mozBrightness")}} {{Non-standard_Inline}} {{Deprecated_Inline}}
   - : Controla el brillo de la pantalla del dispositivo. Espera un valor `double` entre `0` y `1.0`.
 
-### Manejador de eventos
+### Detector de eventos
 
 - {{DOMxRef("Screen.onorientationchange")}} {{Deprecated_Inline}}
   - : Un manejador para el evento {{event("orientationchange")}}.
